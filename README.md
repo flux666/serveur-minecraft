@@ -1,2 +1,0 @@
-# RagnaBlock
-serveur minecraft RagnaBlock
